@@ -1,5 +1,14 @@
 # Praktikum-2-Teori Graf
 
+### Identity
+
+* Kelas - D
+* Kelompok 12
+* Anggota
+    * 5025211054 - M. Armand Giovani
+    * 5025211149 - Irsyad Fikriansyah R.
+    * 5025211257 - Immanuel Pascanov S
+
 ### Question
 
 Implemantasikan sebuah program untuk menyelesaikan permasalahan “Largest Monotonically Increasing Subsequence”
